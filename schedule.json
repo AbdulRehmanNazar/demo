@@ -1,0 +1,41 @@
+{
+  "data": {
+    "id": "97ef2aad-de77-4a40-aa69-8e9bb4017a83",
+    "scheduleSetTimeUtc": "2024-06-04T11:52:05.999",
+    "schedule": [
+      {
+        "name": "Ad 2",
+        "campaignId": "b309fe6f-bfaa-481e-894a-be55d32b2690",
+        "advertisement": {
+          "id": "9e23721e-afa7-49e9-9010-4093225f45b9",
+          "name": "Ad 2",
+          "description": "Description 2",
+          "contentUrl": "https://s3-ap-southeast-2.amazonaws.com/lorikeet-au-tenant-advertisement/25e2ece3-c742-46b2-b80f-19c08e8f9889_0a787863-b438-48b2-b1fe-64af46bdff89",
+          "contentType": "Video"
+        }
+      },
+      {
+        "name": "Ad 2",
+        "campaignId": "248307ef-d58d-492a-b570-f1f15f174f79",
+        "advertisement": {
+          "id": "c2d94960-19ca-4aa5-926f-0b5f223ac81a",
+          "name": "Ad 2",
+          "description": "Description 2",
+          "contentUrl": "https://s3-ap-southeast-2.amazonaws.com/lorikeet-au-tenant-advertisement/25e2ece3-c742-46b2-b80f-19c08e8f9889_b525b969-0b03-4f82-842d-9da41e5319bf",
+          "contentType": "Video"
+        }
+      },
+      {
+        "name": "Ad 1",
+        "campaignId": "75ca4604-e0d2-47a5-a75d-a1adb59cc61c",
+        "advertisement": {
+          "id": "6c90a480-53bd-4bea-9b22-5d44aa3122e5",
+          "name": "Ad 1",
+          "description": "Description 1",
+          "contentUrl": "https://s3-ap-southeast-2.amazonaws.com/lorikeet-au-tenant-advertisement/25e2ece3-c742-46b2-b80f-19c08e8f9889_7a23cf7d-5068-473c-b624-56f8afd1efe6",
+          "contentType": "Image"
+        }
+      }
+    ]
+  }
+}
